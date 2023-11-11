@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sobar Solutions
-baseURL: 'https://sobar-solutions.github.io/testing.github.io/' # Website URL
+baseURL: 'http://sobar-solutions.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
