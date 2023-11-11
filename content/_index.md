@@ -1,20 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Sobar Solutions
-date: 2022-10-24
+date: 2023-11-11
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Sob*e*r Solutions in Data Engineering and AI
+        Sober Solutions in Data Engineering and AI
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        London-based Sobar Solutions is an artel of scientists and AI engineers. We organised while working together as AI researchers at a major banking institution. We consult businesses, NGOs and science groups, providing Data Science and AI solutions. We are: Dr Artur Sokolovsky and Dr Philipp Bartel.
+        London-based Sobar Solutions is an artel of scientists and AI engineers. We organised while working together as AI researchers at a major banking institution. We consult businesses, NGOs and science groups, providing Data Science and AI solutions. We are: [Dr Artur Sokolovsky](https://www.linkedin.com/in/sokolokki/) and [Dr Philipp Bartel](https://www.linkedin.com/in/philipp-bartel-86531660/).
   
   - block: collection
     content:
