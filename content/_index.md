@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Sobar Solutions
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        London-based Sobar Solutions is an artel of scientists and AI engineers. We organised while working together as AI researchers at a major banking institution. We consult businesses, NGOs and science groups, providing Data Science and AI solutions. We are: Dr Artur Sokalouski and Dr Philipp Bartel.
   
   - block: collection
     content:
