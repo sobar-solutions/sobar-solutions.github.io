@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Sobar Solutions
+        Sober Solutions in Data Engineering and AI
       image:
         filename: welcome.jpg
       text: |
