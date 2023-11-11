@@ -1,5 +1,5 @@
 ---
-title: A generic methodology for the statistically uniform &amp$mathsemicolon$ comparable
+title: A generic methodology for the statistically uniform and comparable
   evaluation of Automated Trading Platform components
 authors:
 - Artur Sokolovsky

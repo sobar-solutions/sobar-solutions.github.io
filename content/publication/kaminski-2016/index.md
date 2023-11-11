@@ -9,7 +9,7 @@ authors:
 - K Wolnica
 - M Tarnacka
 - R Wrzalik
-- K Kami\ŉski
+- K Kaminski
 - M Paluch
 date: '2016-01-01'
 publishDate: '2023-11-11T09:48:50.631358Z'
