@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Philipp Bartel
+title: Artur Sokolovsky
 
 # Full Name (for SEO)
-first_name: Philipp
-last_name: Bartel
+first_name: Artur
+last_name: Sokolovsky
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: AI Researcher
+role: AI Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,27 +18,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Time Series Analysis, Natural Language Processing and Computational Linguistics. 
+bio: My research interests include financial ML, agent-based modelling and explainable AI. 
 
 interests:
   - Artificial Intelligence
   - Explainable AI
   - Information Retrieval
-  - Crypto Markets
-  - NLP
-  - Philosophy
-  - Logic
+  - Financial Markets
 
 education:
   courses:
-    - course: PhD in Neuroscience
-      institution: Sussex University, UK
+    - course: PhD in Artificial Intelligence
+      institution: Newcastle University, UK
       year: 2022
-    - course: MSc in Neuroscience
-      institution: UCL, London
+    - course: MSc in Nanophysics
+      institution: Le Mans University, France
       year: 2017
-    - course: BA in Psychology
-      institution: UCL, London
+    - course: BSc in Biophysics
+      institution: University of Silesia, Poland
       year: 2015
 
 # Social/Academic Networking
@@ -48,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:phillipbartel@gmail.com'
+    link: 'mailto:artur.sokolovsky@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=wEGsqeMAAAAJ&hl=en
@@ -63,7 +60,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
