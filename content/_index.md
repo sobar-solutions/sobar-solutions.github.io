@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        London-based Sobar Solutions is an artel of scientists and AI engineers. We organised while working together as AI researchers at a major banking institution. We consult businesses, NGOs and science groups, offering efficient and scalable Data Science and AI solutions. 
+        London-based Sobar Solutions is a community of scientists and AI engineers. We organised while working together as AI researchers at a major banking institution. We consult businesses, NGOs and science groups, offering efficient and scalable Data Science and AI solutions. 
 # We are: [Dr Artur Sokolovsky](https://www.linkedin.com/in/sokolokki/) & [Dr Philipp Bartel](https://www.linkedin.com/in/philipp-bartel-86531660/).
   
   - block: collection
