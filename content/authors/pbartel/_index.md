@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Artur Sokolovsky
+title: Philipp Bartel
 
 # Full Name (for SEO)
-first_name: Artur
-last_name: Sokolovsky
+first_name: Philipp
+last_name: Bartel
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: AI Engineer
+role: AI Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,25 +18,28 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include financial ML, agent-based modelling and explainable AI. 
+bio: My research interests include Time Series Analysis, Natural Language Processing and Computational Linguistics. 
 
 interests:
   - Artificial Intelligence
   - Explainable AI
   - Information Retrieval
-  - Financial Markets
+  - Crypto Markets
+  - NLP
+  - Philosophy
+  - Logic
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Newcastle University
-      year: 2021
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Neuroscience
+      institution: Sussex University, UK
+      year: 2022
+    - course: MSc in Neuroscience
+      institution: UCL, London
+      year: 2017
+    - course: BA in Psychology
+      institution: UCL, London
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:artur.sokolovsky@gmail.com'
+    link: 'mailto:phillipbartel@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=wEGsqeMAAAAJ&hl=en
