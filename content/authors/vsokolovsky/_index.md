@@ -7,7 +7,7 @@ first_name: Vlad
 last_name: Sokolovsky
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: AI Sales
