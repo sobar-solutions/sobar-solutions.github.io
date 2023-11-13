@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Newcastle University, UK
+    - course: PhD in Chemical Sciences
+      institution: National Academy of Science, Poland
+      year: Present
+    - course: MSc in Something else
+      institution: BELARUS
       year: 2022
-    - course: MSc in Nanophysics
-      institution: Le Mans University, France
-      year: 2017
-    - course: BSc in Biophysics
-      institution: University of Silesia, Poland
-      year: 2015
+    - course: BSc in Something
+      institution: BELARUS
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
