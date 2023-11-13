@@ -1,6 +1,7 @@
 ---
 title: Blockchain Mempool Tools at BitsMedia
 date: 2022-03-05
+author: Philipp Bartel
 image:
   focal_point: 'top'
 ---
