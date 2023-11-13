@@ -10,7 +10,7 @@ last_name: Sokolovsky
 superuser: true
 
 # Role/position
-role: AI Engineer
+role: AI Sales
 
 # Organizations/Affiliations
 organizations:
