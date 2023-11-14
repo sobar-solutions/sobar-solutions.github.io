@@ -10,7 +10,7 @@ last_name: Sokolovsky
 superuser: false
 
 # Role/position
-role: AI Sales
+role: Delivery Manager, Power BI / Power Automate Developer
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Vlad
+bio: Helping business to grow by providing insights for data-driven decisions for PMO. I turn data into visualisations. As a Ph.D. student I am focused on creating a tool to calculate mobility tensors of rod and polymers in complex fluids. 
 
 interests:
-  - Volleyball 
-  - Love
-  - Sales
-  - Vlad
+  - Power BI
+  - Data Analysis
+  - Alghoritmization 
+  - Refereeing
 
 education:
   courses:
     - course: PhD in Chemical Sciences
-      institution: National Academy of Science, Poland
+      institution: Institute of Physical Chemistry, Polish Academy of Science, Poland
       year: Present
-    - course: MSc in Something else
-      institution: BELARUS
+    - course: MSc in Medical Devices
+      institution: Belarusian State University of Informatics and Radioelectronics, Belarus
       year: 2022
-    - course: BSc in Something
-      institution: BELARUS
+    - course: BSc Computer Sciences
+      institution: Belarusian State University of Informatics and Radioelectronics, Belarus
       year: 2020
 
 # Social/Academic Networking
