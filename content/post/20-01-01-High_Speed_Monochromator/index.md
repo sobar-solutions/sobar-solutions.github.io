@@ -1,3 +1,4 @@
+---
 title: Cheap High-Speed Monochromator
 date: 2021-03-01
 author: Philipp Bartel
