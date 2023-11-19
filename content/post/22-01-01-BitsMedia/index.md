@@ -1,18 +1,19 @@
 ---
-title: Blockchain Mempool Tools at BitsMedia
+title: Compute-optimized Blockchain Mempool Tools at BitsMedia
 date: 2022-03-05
 author: Philipp Bartel
 image:
   focal_point: 'top'
 ---
 
-Philipp wrote the backend of several blockchain tools hosted at one of the oldest blockchain media in existence - bits.media. They include commission, prediction, mining and mempool tools for several cryptocurrencies. The databases and algorithms were done from scratch, working with in-house light nodes. In this project Phil had to direct and manage the in-house front-end talent as well.
+Philipp wrote the backend of several blockchain tools hosted at one of the oldest blockchain media in existence - bits.media. They include commission, prediction, mining, markets and mempool tools for several cryptocurrencies. The databases and algorithms were done from scratch, working with in-house light nodes, at a fraction of the typical resource costs. 
 
 <!--more-->
 
+Bits.media is a information source about classic and contemporary blockchain applications. This is typically a combination of market and mempool data. Mempool data must come from in-house sources to not be dependent upon external websites.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+For this, several blockchain nodes were maintained on an internal server. Several daemons were working with each node application individually. Appropriate databases were designed to allow for online information updates. The successful solution yielded a modular and failure-resistant architecture at a very low maintenanace cost.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Mining calculators and market information pages required both statistical calculations, and online trades information. Around a thousand tradehouse spots were connected to the database online. Untrusted coins had to be filtered out. In this project Phil had to direct and manage the in-house front-end talent as well.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+This project started with a straightforward consultation about the expectation times of new blocks; and ended with an easily maintained code-base. This project highlighted our team's ability to design working solutions using limited computational resources.
