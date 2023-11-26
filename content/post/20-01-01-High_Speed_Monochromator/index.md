@@ -1,5 +1,5 @@
 ---
-title: Cheap High-Speed Monochromator
+title: High-Performance Cost-Efficient Monochromator
 date: 2021-03-01
 author: Philipp Bartel
 image:
