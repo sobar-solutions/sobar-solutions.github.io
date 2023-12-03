@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: publication
     weight: 3
+  - name: Offer
+    url: offer
+    weight: 5
 #  - name: Contact
 #    url: contact
 #    weight: 60
