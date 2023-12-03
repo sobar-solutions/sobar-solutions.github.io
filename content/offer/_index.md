@@ -2,7 +2,7 @@
 title: Our Offer
 
 # Listing view
-view: usecase
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
