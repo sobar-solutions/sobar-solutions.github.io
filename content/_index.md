@@ -10,17 +10,16 @@ sections:
       title: |
         Sober Solutions in Data Engineering and AI
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         
-        London-based Sobar Solutions consists of scientists and AI engineers. We consult businesses, NGOs and science groups, offering efficient and scalable Data Science and AI solutions. Lightweight and efficient machine learning can benefit nearly any enterprise. Our promise is providing the most elegant and efficient solutions irrespective of what is currently in the spotlight. Our mindset is building original systems: lightweight and specific to your needs. We consult, build prototypes and can take projects to production with our in-house talent.
-
+        London-based Sobar Solutions is a community of scientists and AI engineers. We organised while working together as AI researchers at a major banking institution. We consult businesses, NGOs and science groups, offering efficient and scalable Data Science and AI solutions. 
 # We are: [Dr Artur Sokolovsky](https://www.linkedin.com/in/sokolokki/) & [Dr Philipp Bartel](https://www.linkedin.com/in/philipp-bartel-86531660/).
   
   - block: collection
     content:
-      title: Our Projects
+      title: Our Offer
       subtitle:
       text:
       count: 5
@@ -32,9 +31,9 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: offer
     design:
-      view: card
+      view: showcase
       columns: '1'
   
   - block: markdown
