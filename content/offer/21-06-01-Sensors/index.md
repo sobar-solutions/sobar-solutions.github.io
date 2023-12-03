@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Our team led the development of an avant-garde IoT AI solution targeting early failure detection in hydraulic motors for a large manufacturer. We went through every stage of the project, from sensor choice to assembly of the physical prototype and design of the data pipelines, communication with the cloud and insights delivery. 
+Our team led the development of an avant-garde IoT AI solution targeting early failure detection in hydraulic motors for a large manufacturer. We went through every stage of the project, from sensor choice to assembly of the physical prototype and design of the data pipelines, communication with the cloud and insights delivery. Our team of experts is fully equipped to establish, expand and audit sensor networks in various industrial settings, bringing you into the era of Industry 3.0, optimising production and decreasing downtimes.
 
 <!--more-->
 

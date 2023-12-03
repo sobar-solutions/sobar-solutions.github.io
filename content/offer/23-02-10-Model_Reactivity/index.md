@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Many businesses use machine learning for fraud detection and risk assessments. However, these models often fail when external factors come into play. For instance, when COVID happened, many financial institutions struggled to assess risks and keep up with the changes. 
+Many businesses use machine learning for fraud detection and risk assessments. However, these models often fail when external factors come into play. For instance, when COVID happened, many financial institutions struggled to assess risks and keep up with the changes. We propose solutions addressing this limitation and saving you money. 
 
 <!--more-->
 
