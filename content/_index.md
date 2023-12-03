@@ -11,7 +11,7 @@ sections:
         Sober Solutions in Data Engineering and AI
       image:
         filename: welcome.png
-        size: cover
+        size: 1000
       text: |
         <br>
         
