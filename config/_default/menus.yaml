@@ -7,7 +7,7 @@ main:
   - name: Home
     url: /#../_index.md
     weight: 1
-  - name: Our Projects
+  - name: Projects
     url: post
     weight: 2
   - name: People
